@@ -1,12 +1,14 @@
 
 # 来源： https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list
-# 最后更新时间： 2024-03-01 22:44
+# 最后更新时间： 2025-01-23
 
 
 ##### #####
 DOMAIN-KEYWORD,ii00.cc
 DOMAIN-KEYWORD,magpie
-# ACA & MisakaF
+
+##### A #####
+# ACA & MisakaF #纪念伟大的鲤鱼桑，牢鲤啊，牢鲤
 DOMAIN-SUFFIX,stream1.misakaf.org
 DOMAIN-SUFFIX,stream2.misakaf.org
 DOMAIN-SUFFIX,stream3.misakaf.org
@@ -112,6 +114,10 @@ DOMAIN-SUFFIX,emby.nexitally.com
 
 # Nebula
 DOMAIN-SUFFIX,nebula-emby.com
+
+#Niceduck
+DOMAIN-SUFFIX, emby.moe
+DOMAIN-SUFFIX, niceduck.lol
 
 ##### O #####
 

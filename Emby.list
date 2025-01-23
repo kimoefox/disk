@@ -50,6 +50,9 @@ DOMAIN-SUFFIX,emby.ssltd.xyz
 
 ##### H #####
 
+# Halo Media
+DOMAIN-SUFFIX,media.cloudaria.net
+
 # 花云
 DOMAIN-SUFFIX,emby.flowercloud
 

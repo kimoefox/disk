@@ -65,6 +65,9 @@ DOMAIN-SUFFIX,emby.trade
 
 ##### I #####
 
+#iris Emby
+DOMAIN-SUFFIX,irisnb.com
+
 # Immtel
 DOMAIN-SUFFIX,emby.immtel.com
 
@@ -92,6 +95,9 @@ DOMAIN-SUFFIX,reddust.link
 DOMAIN-SUFFIX,charontv.com
 
 ##### L #####
+
+# Long Emby
+DOMAIN-SUFFIX,cf.longemby.com
 
 # Land Emby
 DOMAIN-SUFFIX,emby.lcloud.wiki
@@ -295,4 +301,4 @@ DOMAIN-SUFFIX,emby.ws
 DOMAIN-SUFFIX,ohhhh.org
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,9521732.xyz
-DOMAIN-SUFFIX,irisnb.com
+

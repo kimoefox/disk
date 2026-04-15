@@ -97,6 +97,8 @@ DOMAIN-SUFFIX,charontv.com
 ##### L #####
 
 # Long Emby
+DOMAIN-SUFFIX,pkstream-jp.longemby.top
+DOMAIN-SUFFIX,pkstream-hk.longemby.top
 DOMAIN-SUFFIX,cfstream.longemby.top
 DOMAIN-SUFFIX,cf.longemby.com
 
